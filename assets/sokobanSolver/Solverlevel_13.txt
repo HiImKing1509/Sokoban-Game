@@ -1,0 +1,12 @@
+[Sequence Action DFS] = ['r', 'r', 'd', 'l', 'l', 'd', 'd', 'r', 'r', 'r', 'r', 'u', 'u', 'L', 'r', 'd', 'l', 'l', 'd', 'l', 'l', 'u', 'u', 'r', 'u', 'r', 'D', 'r', 'r', 'd', 'l', 'd', 'l', 'l', 'l', 'u', 'u', 'r', 'u', 'r', 'u', 'r', 'D', 'l', 'l', 'l', 'd', 'd', 'd', 'r', 'r', 'r', 'r', 'u', 'u', 'L', 'L', 'r', 'r', 'd', 'l', 'd', 'l', 'U', 'U', 'r', 'r', 'd', 'l', 'l', 'd', 'l', 'l', 'u', 'u', 'R', 'R', 'l', 'l', 'd', 'd', 'r', 'r', 'r', 'r', 'u', 'u', 'L', 'r', 'd', 'l', 'l', 'd', 'l', 'l', 'u', 'u', 'u', 'r', 'R', 'l', 'l', 'd', 'd', 'd', 'r', 'r', 'r', 'r', 'u', 'l', 'u', 'L', 'r', 'r', 'd', 'l', 'l', 'd', 'l', 'l', 'u', 'u', 'u', 'r', 'r', 'u', 'r', 'D', 'l', 'l', 'l', 'd', 'R', 'l', 'u', 'r', 'r', 'r', 'D', 'r', 'd', 'd', 'l', 'l', 'l', 'l', 'u', 'u', 'r', 'R', 'l', 'l', 'd', 'd', 'r', 'r', 'r', 'r', 'u', 'L', 'r', 'd', 'l', 'l', 'l', 'l', 'u', 'u', 'r', 'r', 'u', 'r', 'D', 'r', 'd', 'd', 'l', 'l', 'U', 'U', 'r', 'r', 'd', 'L'], 
+[Length of path for DFS] = 185, 
+[Time action DFS] = 0.6202788352966309,
+
+[Sequence Action BFS] = ['d', 'r', 'r', 'd', 'r', 'r', 'u', 'L', 'L', 'u', 'u', 'r', 'D', 'D', 'u', 'l', 'l', 'l', 'd', 'R', 'l', 'd', 'd', 'r', 'r', 'u', 'U', 'r', 'r', 'd', 'L'], 
+[Length of path for BFS] = 31, 
+[Time action BFS] = 0.48026394844055176,
+
+[Sequence Action UCS] = ['d', 'r', 'r', 'd', 'r', 'r', 'u', 'L', 'L', 'u', 'u', 'r', 'D', 'D', 'u', 'l', 'l', 'l', 'd', 'R', 'l', 'd', 'd', 'r', 'r', 'u', 'U', 'r', 'r', 'd', 'L'], 
+[Length of path for UCS] = 31, 
+[Time action UCS] = 0.6086139678955078,
+

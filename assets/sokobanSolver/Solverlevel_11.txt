@@ -1,0 +1,12 @@
+[Sequence Action DFS] = ['r', 'D', 'l', 'd', 'd', 'r', 'r', 'r', 'u', 'u', 'L', 'L', 'r', 'r', 'd', 'd', 'l', 'l', 'U', 'l', 'd', 'r', 'r', 'r', 'u', 'u', 'l', 'u', 'l', 'l', 'D', 'R', 'd', 'd', 'l', 'U'], 
+[Length of path for DFS] = 36, 
+[Time action DFS] = 0.06206798553466797,
+
+[Sequence Action BFS] = ['r', 'D', 'l', 'd', 'd', 'r', 'r', 'r', 'u', 'u', 'L', 'L', 'r', 'r', 'd', 'd', 'l', 'l', 'U', 'd', 'r', 'r', 'u', 'u', 'l', 'u', 'l', 'l', 'D', 'R', 'd', 'd', 'l', 'U'], 
+[Length of path for BFS] = 34, 
+[Time action BFS] = 0.06160426139831543,
+
+[Sequence Action UCS] = ['r', 'D', 'l', 'd', 'd', 'r', 'r', 'r', 'u', 'u', 'L', 'L', 'r', 'r', 'd', 'd', 'l', 'l', 'U', 'd', 'r', 'r', 'u', 'u', 'l', 'u', 'l', 'l', 'D', 'R', 'd', 'd', 'l', 'U'], 
+[Length of path for UCS] = 34, 
+[Time action UCS] = 0.07366180419921875,
+

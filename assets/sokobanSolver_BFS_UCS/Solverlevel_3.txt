@@ -1,0 +1,16 @@
+[Sequence Action BFS] = ['L', 'r', 'd', 'r', 'd', 'd', 'D', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R'], 
+[Path length of BFS] = 15, 
+[Time action BFS] = 0.5890674591064453,
+
+[Sequence Action UCS] = ['L', 'r', 'd', 'r', 'd', 'd', 'D', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R'], 
+[Path length of UCS] = 15, 
+[Time action UCS] = 0.29302167892456055,
+
+[Sequence Action BFS] = ['L', 'r', 'd', 'r', 'd', 'd', 'D', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R'], 
+[Path length of BFS] = 15, 
+[Time action BFS] = 0.9585573673248291,
+
+[Sequence Action UCS] = ['L', 'r', 'd', 'r', 'd', 'd', 'D', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R'], 
+[Path length of UCS] = 15, 
+[Time action UCS] = 0.43693113327026367,
+
